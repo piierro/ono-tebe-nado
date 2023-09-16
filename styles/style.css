@@ -68,7 +68,7 @@
 
 .cover {
   height: 757px;
-  background-image: url(/images/cover.jpg);
+  background-image: url(../images/cover.jpg);
   background-position: right center;
   background-repeat: no-repeat;
 }
@@ -192,7 +192,7 @@
   position: relative;
   width: 430px;
   height: 450px;
-  background-image: url(/images/card-lot-01.jpg);
+  background-image: url(../images/card-lot-01.jpg);
   background-position: left;
   background-repeat: no-repeat;
   background-size: cover;
@@ -207,7 +207,7 @@
   position: relative;
   width: 430px;
   height: 450px;
-  background-image: url(/images/card-lot-02.jpg);
+  background-image: url(../images/card-lot-02.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -217,7 +217,7 @@
   position: relative;
   width: 430px;
   height: 450px;
-  background-image: url(/images/card-lot-03.jpg);
+  background-image: url(../images/card-lot-03.jpg);
   background-position: right;
   background-repeat: no-repeat;
   background-size: cover;
