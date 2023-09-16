@@ -1,5 +1,8 @@
-.body {
+* {
     margin: 0;
+    padding: 0;
+}
+.body {
     font-family: 'Raleway', serif;
     width: 1440px;
     height: 2844px;
@@ -49,7 +52,7 @@
     border-bottom: 1px solid black;
 }
 
-.header__link-active { 
+.header__link-active {
     text-decoration: none;
     font-size: 18px;
 }
@@ -94,11 +97,7 @@
     font-size: 100px;
     font-style: normal;
     font-weight: 700;
-    line-height: 115%; 
-    letter-spacing: 30px;
     text-transform: uppercase;
-    gap: 20px;
-    z-index: 1;
     display: block;
     line-height: 1;
     letter-spacing: 0.3;
@@ -265,7 +264,6 @@
     line-height: 1.2; 
     text-decoration-line: underline;
     text-transform: uppercase;
-    z-index: 3;
 }
 
 .card__text {
@@ -279,7 +277,6 @@
     padding-top: 30px;
     z-index: 3;
 }
-
 
 .lots__look-more-link {
     display: block;
@@ -358,7 +355,7 @@
 }
 
 .footer__menu {
- margin-top: 8px;
+    margin-top: 8px;
 }
 
 .footer__menu-list {
