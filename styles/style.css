@@ -159,7 +159,7 @@
 }
 
 .lots {
-  margin: 180px 50px;
+  margin: 180px 47px;
   height: 100%;
   position: relative;
 }
@@ -177,7 +177,7 @@
 .lots__container {
   display: flex;
   justify-content: space-between;
-  padding-top: 25px;
+  padding-top: 27px;
   gap: 25px;
   list-style: none;
   flex-grow: 1;
@@ -191,7 +191,7 @@
 .card_type_film {
   position: relative;
   width: 430px;
-  height: 452px;
+  height: 450px;
   background-image: url(/images/card-lot-01.jpg);
   background-position: left;
   background-repeat: no-repeat;
@@ -206,7 +206,7 @@
 .card_type_book {
   position: relative;
   width: 430px;
-  height: 452px;
+  height: 450px;
   background-image: url(/images/card-lot-02.jpg);
   background-position: center;
   background-repeat: no-repeat;
@@ -216,7 +216,7 @@
 .card_type_picture {
   position: relative;
   width: 430px;
-  height: 452px;
+  height: 450px;
   background-image: url(/images/card-lot-03.jpg);
   background-position: right;
   background-repeat: no-repeat;
