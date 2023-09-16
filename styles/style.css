@@ -196,7 +196,6 @@
   background-position: left;
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 50px 40px;
   z-index: 1;
 }
 
@@ -342,7 +341,7 @@
 }
 
 .footer__address {
-  width: 240px;
+  max-width: 240px;
 }
 
 .footer__menu-list {
@@ -378,5 +377,5 @@
   list-style: none;
   height: 48px;
   gap: 49px;
-  max-width: 260px;
+  width: 240px;
 }
