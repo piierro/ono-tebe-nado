@@ -7,7 +7,7 @@
 }
 
 body {
-  min-width: 1440px;
+  max-width: 1440px;
   font-family: 'Raleway', sans-serif;
   background-color: #fff;
 }
