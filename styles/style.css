@@ -242,6 +242,7 @@
 }
 
 .card__title {
+  display: block;
   color: #fff;
   font-size: 22px;
   font-style: normal;
@@ -249,7 +250,7 @@
   line-height: 1.2;
   text-decoration-line: underline;
   text-transform: uppercase;
-  max-width: 350px;
+  width: 350px;
 }
 
 .card__text {
@@ -341,17 +342,17 @@
 }
 
 .footer__address {
-  max-width: 240px;
-}
-
-.footer__menu {
-  max-width: 150px;
+  width: 240px;
 }
 
 .footer__menu-list {
   display: block;
   list-style-type: none;
   text-align: center;
+}
+
+.footer__menu-list-item {
+  width: 160px;
 }
 
 .footer__menu-list-item-active {
@@ -377,5 +378,5 @@
   list-style: none;
   height: 48px;
   gap: 49px;
-  max-width: 240px;
+  max-width: 260px;
 }
