@@ -57,6 +57,10 @@
   justify-self: flex-end;
 }
 
+.address-header {
+  margin-top: 5px;
+}
+
 .address_link {
   text-decoration: none;
   border-bottom: 1px solid black;
@@ -245,7 +249,7 @@
   line-height: 1.2;
   text-decoration-line: underline;
   text-transform: uppercase;
-  min-width: 350px;
+  max-width: 350px;
 }
 
 .card__text {
@@ -336,13 +340,16 @@
   justify-content: space-between;
 }
 
+.footer__address {
+  max-width: 240px;
+}
+
 .footer__menu {
-  width: 150px;
+  max-width: 150px;
 }
 
 .footer__menu-list {
-  display: inline;
-  justify-content: center;
+  display: block;
   list-style-type: none;
   text-align: center;
 }
@@ -370,5 +377,5 @@
   list-style: none;
   height: 48px;
   gap: 49px;
-  width: 240px;
+  max-width: 240px;
 }
