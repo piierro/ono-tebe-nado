@@ -2,12 +2,14 @@
 *::before,
 *::after {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 body {
-  min-width: 1100px;
-  margin: 0;
-  font-family: Raleway, sans-serif;
+  min-width: 1440px;
+  font-family: 'Raleway', sans-serif;
+  background-color: #fff;
 }
 
 h1,
