@@ -177,6 +177,8 @@
 .lots__container {
   display: flex;
   justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: wrap;
   padding-top: 27px;
   gap: 25px;
   list-style: none;
