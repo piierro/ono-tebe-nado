@@ -245,6 +245,7 @@
   line-height: 1.2;
   text-decoration-line: underline;
   text-transform: uppercase;
+  width: 350px;
 }
 
 .card__text {
@@ -336,7 +337,7 @@
 }
 
 .footer__menu {
-  max-width: 150px;
+  width: 150px;
 }
 
 .footer__menu-list {
@@ -370,5 +371,5 @@
   width: 240px;
   height: 48px;
   gap: 49px;
-  max-width: 240px;
+  width: 240px;
 }
