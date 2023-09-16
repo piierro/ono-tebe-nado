@@ -177,7 +177,7 @@
   gap: 25px;
   list-style: none;
   flex-grow: 1;
-  margin-bottom: 56px;
+  margin-bottom: 30px;
 }
 
 .card-link {
@@ -333,7 +333,6 @@
   display: flex;
   margin: 180px 190px 124px 50px;
   justify-content: space-between;
-  gap: 100px;
 }
 
 .footer__menu {
@@ -372,5 +371,4 @@
   height: 48px;
   gap: 49px;
   max-width: 240px;
-  margin-right: 100px;
 }
