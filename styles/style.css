@@ -245,7 +245,7 @@
   line-height: 1.2;
   text-decoration-line: underline;
   text-transform: uppercase;
-  width: 350px;
+  min-width: 350px;
 }
 
 .card__text {
@@ -333,11 +333,11 @@
 .footer {
   display: flex;
   margin: 180px 190px 124px 50px;
-  justify-content: space-between;
 }
 
 .footer__menu {
   width: 150px;
+  margin-left: 358px;
 }
 
 .footer__menu-list {
@@ -368,8 +368,8 @@
 .footer__social-list {
   display: flex;
   list-style: none;
-  width: 240px;
   height: 48px;
   gap: 49px;
   width: 240px;
+  margin-left: 355px;
 }
