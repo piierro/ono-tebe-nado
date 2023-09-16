@@ -58,7 +58,7 @@
 }
 
 .address-header {
-  margin-top: 5px;
+  margin-top: 7px;
 }
 
 .address_link {
@@ -336,12 +336,8 @@
 
 .footer {
   display: flex;
-  margin: 180px 50px 124px 50px;
+  margin: 180px 50px 93px 50px;
   justify-content: space-between;
-}
-
-.footer__address {
-  max-width: 240px;
 }
 
 .footer__menu-list {
